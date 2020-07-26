@@ -2,14 +2,14 @@ h3 {
    color: brown;
 }
 
-img {
-
-}
 
 .photos {
    text-align: center;
 }
 .photos img{
-   width: 720px;
-   height: 480px;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 95%;
+   height: auto;
 }
